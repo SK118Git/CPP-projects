@@ -1,0 +1,10 @@
+C:\Users\sasha\source\repos\Info\Info\bin\Debug\Info.dacpac
+C:\Users\sasha\source\repos\Info\Info\obj\Debug\Info.sqlproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\Info\Info\obj\Debug\Model.xml
+C:\Users\sasha\source\repos\Info\Info\obj\Debug\refactor.xml
+C:\Users\sasha\source\repos\Info\Info\obj\Debug\postdeploy.sql
+C:\Users\sasha\source\repos\Info\Info\obj\Debug\predeploy.sql
+C:\Users\sasha\source\repos\Info\Info\obj\Debug\Info.dll
+C:\Users\sasha\source\repos\Info\Info\obj\Debug\Info.pdb
+C:\Users\sasha\source\repos\Info\Info\bin\Debug\Info.dll
+C:\Users\sasha\source\repos\Info\Info\bin\Debug\Info.pdb

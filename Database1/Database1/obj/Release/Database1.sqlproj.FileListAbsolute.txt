@@ -1,0 +1,5 @@
+C:\Users\sasha\source\repos\Database1\Database1\bin\Release\Database1.dacpac
+C:\Users\sasha\source\repos\Database1\Database1\bin\Release\Database1.dll
+C:\Users\sasha\source\repos\Database1\Database1\bin\Release\Database1.pdb
+C:\Users\sasha\source\repos\Database1\Database1\obj\Release\Database1.dll
+C:\Users\sasha\source\repos\Database1\Database1\obj\Release\Database1.pdb

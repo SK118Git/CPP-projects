@@ -1,0 +1,28 @@
+﻿  calculator.cpp
+C:\Users\sasha\source\repos\calculator\calculator\calculator.cpp(29,16): warning C4101: 'sizel': unreferenced local variable
+C:\Users\sasha\source\repos\calculator\calculator\calculator.cpp(54,12): warning C4101: 'variable': unreferenced local variable
+C:\Users\sasha\source\repos\calculator\calculator\calculator.cpp(109,33): warning C4244: '+=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\sasha\source\repos\calculator\calculator\calculator.cpp(118,38): warning C4244: '-=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\sasha\source\repos\calculator\calculator\calculator.cpp(128,40): warning C4244: '*=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\sasha\source\repos\calculator\calculator\calculator.cpp(143,33): warning C4244: '/=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 162 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  calculator.vcxproj -> C:\Users\sasha\source\repos\calculator\Release\calculator.exe

@@ -1,0 +1,9 @@
+C:\Users\sasha\source\repos\Info\Info\bin\Release\Info.dacpac
+C:\Users\sasha\source\repos\Info\Info\bin\Release\Info.dll
+C:\Users\sasha\source\repos\Info\Info\bin\Release\Info.pdb
+C:\Users\sasha\source\repos\Info\Info\obj\Release\Model.xml
+C:\Users\sasha\source\repos\Info\Info\obj\Release\refactor.xml
+C:\Users\sasha\source\repos\Info\Info\obj\Release\postdeploy.sql
+C:\Users\sasha\source\repos\Info\Info\obj\Release\predeploy.sql
+C:\Users\sasha\source\repos\Info\Info\obj\Release\Info.dll
+C:\Users\sasha\source\repos\Info\Info\obj\Release\Info.pdb

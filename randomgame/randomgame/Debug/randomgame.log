@@ -1,0 +1,17 @@
+﻿  randomgame.cpp
+C:\Users\sasha\source\repos\randomgame\randomgame\randomgame.cpp(182,31): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sasha\source\repos\randomgame\randomgame\randomgame.cpp(192,31): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sasha\source\repos\randomgame\randomgame\randomgame.cpp(212,31): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sasha\source\repos\randomgame\randomgame\randomgame.cpp(222,31): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sasha\source\repos\randomgame\randomgame\randomgame.cpp(407,58): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sasha\source\repos\randomgame\randomgame\randomgame.cpp(434,58): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sasha\source\repos\randomgame\randomgame\randomgame.cpp(461,58): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sasha\source\repos\randomgame\randomgame\randomgame.cpp(488,59): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sasha\source\repos\randomgame\randomgame\randomgame.cpp(514,25): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\sasha\source\repos\randomgame\randomgame\randomgame.cpp(576,62): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sasha\source\repos\randomgame\randomgame\randomgame.cpp(603,62): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sasha\source\repos\randomgame\randomgame\randomgame.cpp(630,62): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sasha\source\repos\randomgame\randomgame\randomgame.cpp(657,63): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\sasha\source\repos\randomgame\randomgame\randomgame.cpp(683,29): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\sasha\source\repos\randomgame\randomgame\randomgame.cpp(175): warning C4717: 'play': recursive on all control paths, function will cause runtime stack overflow
+  randomgame.vcxproj -> C:\Users\sasha\source\repos\randomgame\Debug\randomgame.exe

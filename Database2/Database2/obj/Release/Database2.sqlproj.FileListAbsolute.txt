@@ -1,0 +1,9 @@
+C:\Users\sasha\source\repos\Database2\Database2\bin\Release\Database2.dacpac
+C:\Users\sasha\source\repos\Database2\Database2\obj\Release\Database2.dll
+C:\Users\sasha\source\repos\Database2\Database2\obj\Release\Database2.pdb
+C:\Users\sasha\source\repos\Database2\Database2\bin\Release\Database2.dll
+C:\Users\sasha\source\repos\Database2\Database2\bin\Release\Database2.pdb
+C:\Users\sasha\source\repos\Database2\Database2\obj\Release\Model.xml
+C:\Users\sasha\source\repos\Database2\Database2\obj\Release\refactor.xml
+C:\Users\sasha\source\repos\Database2\Database2\obj\Release\postdeploy.sql
+C:\Users\sasha\source\repos\Database2\Database2\obj\Release\predeploy.sql

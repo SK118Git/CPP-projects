@@ -1,0 +1,4 @@
+﻿  calculator.cpp
+C:\Users\sasha\source\repos\calculator\calculator\calculator.cpp(29,16): warning C4101: 'sizel': unreferenced local variable
+C:\Users\sasha\source\repos\calculator\calculator\calculator.cpp(63,9): warning C4101: 'tempc': unreferenced local variable
+  calculator.vcxproj -> C:\Users\sasha\source\repos\calculator\Debug\calculator.exe

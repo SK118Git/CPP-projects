@@ -1,0 +1,12 @@
+﻿  testing 64.cpp
+C:\Users\sasha\OneDrive\Desktop\tempo\matplotlib-cpp-master\matplotlibcpp.h(1816,48): warning C4244: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\sasha\OneDrive\Desktop\tempo\matplotlib-cpp-master\matplotlibcpp.h(2880): message : see reference to function template instantiation 'bool matplotlibcpp::plot<double>(const std::vector<double,std::allocator<double>> &,const std::string &)' being compiled
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 169 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  testing 64.vcxproj -> C:\Users\sasha\source\repos\testing 64\x64\Release\testing 64.exe

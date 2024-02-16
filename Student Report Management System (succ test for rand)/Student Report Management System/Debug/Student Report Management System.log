@@ -1,0 +1,4 @@
+﻿  Student Report Management System.cpp
+C:\Users\sasha\source\repos\Student Report Management System (succ test for rand)\Student Report Management System\Student Report Management System.cpp(90,27): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\sasha\source\repos\Student Report Management System (succ test for rand)\Student Report Management System\Student Report Management System.cpp(117,3): warning C4551: function call missing argument list
+  Student Report Management System.vcxproj -> C:\Users\sasha\source\repos\Student Report Management System (succ test for rand)\Debug\Student Report Management System.exe

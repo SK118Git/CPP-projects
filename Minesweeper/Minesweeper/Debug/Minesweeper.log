@@ -1,0 +1,8 @@
+﻿  Minesweeper.cpp
+C:\Users\sasha\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(37,26): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\sasha\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(38,26): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\sasha\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(45,5): error C2374: 'randomnum': redefinition; multiple initialization
+C:\Users\sasha\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(20): message : see declaration of 'randomnum'
+C:\Users\sasha\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(45,26): error C2143: syntax error: missing ';' before '{'
+C:\Users\sasha\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(45,26): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\sasha\source\repos\Minesweeper\Minesweeper\Minesweeper.cpp(52,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
